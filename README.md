@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Errol 👋
 
-<!--
-**errolbrownbusiness/errolbrownbusiness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineering & Business Analytics | Python | SQL | ETL Pipelines | KPI Modeling**
 
-Here are some ideas to get you started:
+I build data pipelines, analytics systems, and dashboards that turn raw data into business clarity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Focus
+- Python (pandas, data wrangling)
+- SQL (CTEs, window functions)
+- ETL pipelines & data validation
+- KPI modeling & analytics frameworks
+- Tableau / Power BI
+- Cloud fundamentals (AWS, GCP)
+- Logging, environments, and reproducible workflows
+
+### 🚀 Featured Project
+🔹 **Advertiser Analytics ETL Pipeline**  
+End-to-end ETL pipeline that:
+- Cleans raw e-commerce marketplace data  
+- Builds advertiser-level fact tables  
+- Computes daily & monthly KPIs  
+- Validates schemas with Pandera  
+- Uses production-style logging  
+
+📂 Repo: [advertiser-analytics-etl](https://github.com/errolbrownbusiness/advertiser-analytics-etl)
+
+### 🎯 What I’m Working Toward
+- Business Analytics / Data Analyst / Data Engineering roles  
+- Strengthening Python + SQL depth  
+- Building more portfolio projects using cloud + dbt
+
+### 🤝 Let’s Connect
+📧 errol.brown.business@gmail.com  
+🔗 www.linkedin.com/in/errolbrown  
