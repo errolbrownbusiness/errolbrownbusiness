@@ -1,34 +1,28 @@
-# Hi, I'm Errol 👋
+# 👋 Hi, I'm Errol Brown
 
-**Data Engineering & Business Analytics | Python | SQL | ETL Pipelines | KPI Modeling**
+🎯 **Data Engineer / Business Analytics Professional**
 
-I build data pipelines, analytics systems, and dashboards that turn raw data into business clarity.
+Master’s in Information Technology Strategy @ Carnegie Mellon University (GEM Fellow)  
+Currently working on end-to-end analytics & ETL projects using Python, Pandas, SQL, and cloud tools.
 
-### 🔧 Technical Focus
-- Python (pandas, data wrangling)
-- SQL (CTEs, window functions)
-- ETL pipelines & data validation
-- KPI modeling & analytics frameworks
-- Tableau / Power BI
-- Cloud fundamentals (AWS, GCP)
-- Logging, environments, and reproducible workflows
+---
 
 ### 🚀 Featured Project
-🔹 **Advertiser Analytics ETL Pipeline**  
-End-to-end ETL pipeline that:
-- Cleans raw e-commerce marketplace data  
-- Builds advertiser-level fact tables  
-- Computes daily & monthly KPIs  
-- Validates schemas with Pandera  
-- Uses production-style logging  
+**[Advertiser Analytics ETL Pipeline](https://github.com/errolbrownbusiness/advertiser-analytics-etl)**  
+End-to-end Python ETL project that cleans raw e-commerce data, validates with Pandera, and generates advertiser-level KPIs.  
+🧰 *Stack:* Python, Pandas, Pandera, Logging, Git, ETL
 
-📂 Repo: [advertiser-analytics-etl](https://github.com/errolbrownbusiness/advertiser-analytics-etl)
+---
 
-### 🎯 What I’m Working Toward
-- Business Analytics / Data Analyst / Data Engineering roles  
-- Strengthening Python + SQL depth  
-- Building more portfolio projects using cloud + dbt
+### 🧠 Technical Skills
+- **Languages:** Python, SQL (PostgreSQL, Redshift), ABAP
+- **Data Tools:** Pandas, Tableau, Hadoop (Hue), PySpark, DBT, Snowflake  
+- **ETL & Validation:** Pandera, Airflow, Prefect, AWS Glue  
+- **Visualization:** Tableau, Power BI  
+- **Other:** Git, Jupyter, conda, logging, Excel automation  
 
-### 🤝 Let’s Connect
+---
+
+### 🌎 Let’s Connect
 📧 errol.brown.business@gmail.com  
-🔗 www.linkedin.com/in/errolbrown  
+🔗 [LinkedIn](https://www.linkedin.com/in/errolbrownbusiness)
